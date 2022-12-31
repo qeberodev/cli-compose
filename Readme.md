@@ -4,6 +4,8 @@ CLI-COMPOSE is a tool to help you build and manage your own scripts, code snippe
 and templates. You might have taken it from somewhere like stack overflow or from
 someone's blog. This will help with keeping track of that.
 
+![The aim, Roughly](docs/roughly.png)
+
 ## Goals
 
 1. Add a command block
